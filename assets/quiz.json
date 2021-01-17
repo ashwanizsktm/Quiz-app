@@ -1,0 +1,63 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Eighteen thousandths, written as a decimal, is:",
+      "answers": [
+        "0.0018",
+        "0.018",
+        "0.18"
+      ],
+      "correct_answer": 1
+    },
+
+    {
+      "number": 2,
+      "question": "The next number in the sequence <b>1, 3, 6, 10, </b> is:",
+      "answers": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct_answer": 4
+    },
+
+    {
+      "number": 3,
+      "question": "Where is <b>TajMahal</b> is:",
+      "answers": [
+        "Ranchi",
+        "Patna",
+        "Uadaipur",
+        "Agara"
+      ],
+      "correct_answer": 4
+    },
+
+    {
+      "number": 4,
+      "question": "Who wrote the famous book <b>'We the people'?</b> is:",
+      "answers": [
+        "T.N.Kaul",
+        "Nani Palkhivala",
+        "J.R.D. Tata",
+        "Khushwant Singh"
+      ],
+      "correct_answer": 2
+    },
+
+    {
+      "number": 5,
+      "question": "Which of the following is the correct syntax to create a cookie using JavaScript?",
+      "answers": [
+        "document.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "browser.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "window.cookie = 'key1 = value1; key2 = value2; expires = date';",
+        "navigator.cookie = 'key1 = value1; key2 = value2; expires = date';"
+        
+      ],
+      "correct_answer": 1
+    }
+  ]
+}
